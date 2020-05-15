@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SkypeAutoCapture": {
+      "commandName": "Project",
+      "commandLineArgs": "0 C:\\Users\\User\\Desktop\\test 0"
+    }
+  }
+}

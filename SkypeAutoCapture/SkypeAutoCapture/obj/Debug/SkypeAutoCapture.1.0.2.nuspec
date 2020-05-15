@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SkypeAutoCapture</id>
+    <version>1.0.2</version>
+    <authors>SkypeAutoCapture</authors>
+    <owners>SkypeAutoCapture</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.0">
+        <dependency id="Microsoft.WinAppDriver.Appium.WebDriver" version="1.0.1-Preview" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\shunNoFile\SkypeAutoCapture-20200508T060620Z-001\SkypeAutoCapture\SkypeAutoCapture\bin\Debug\netcoreapp3.0\SkypeAutoCapture.runtimeconfig.json" target="lib\netcoreapp3.0\SkypeAutoCapture.runtimeconfig.json" />
+    <file src="C:\shunNoFile\SkypeAutoCapture-20200508T060620Z-001\SkypeAutoCapture\SkypeAutoCapture\bin\Debug\netcoreapp3.0\SkypeAutoCapture.dll" target="lib\netcoreapp3.0\SkypeAutoCapture.dll" />
+  </files>
+</package>
